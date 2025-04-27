@@ -1,6 +1,6 @@
 ## <img src="images/miku-wave.gif" height=36px><span style="font-size: 36px;"> Hello there! </span> 
 
-![Github Header](images/Steve%20Francis%20King%20C.%20Pada.png)
+<img src="images/Steve%20Francis%20King%20C.%20Pada.png" alt="Github Header" style="width: 100%;"/>
 
 
 
