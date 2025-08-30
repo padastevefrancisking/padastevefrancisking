@@ -8,12 +8,12 @@
 Aspiring Software Developer/AI Engineer/Game Programmer Junior Student of Visayas State University 
 
 
-- 🔭 I’m currently working on Rekindle - A VSU Exploration Game
-- 🌱 I’m currently learning Web and Game Development, and Machine Learning
 - 👾 Current Game Development Progrmaming Co-head
 - 🎲 Discrete Structures 2 Special Mentor
 - ✏️ CS3 External Secretary
 - 📝 Caption Writer and Head of Digital Communications Division of the CS3-FC Media and Communications Committee
+- 🔭 I’m currently working on Rekindle - A VSU Exploration Game
+- 🌱 I’m currently learning Web and Game Development, and Machine Learning
 - ⚡ Fun fact: I don't like glitters -,-
 
 ## <img src="images/sucrosee.gif" height=25px width=25px alt="frierering"> Tech Stacks and Languages
