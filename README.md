@@ -5,7 +5,7 @@
 
 
 ## <img src="images/frieren.gif" height=25px width=25px alt="frierering"> I'm Steve Francis King C. Pada!
-Aspiring Software Developer/AI Engineer/Game Programmer Junior Student of Visayas State University 
+Aspiring Software Developer/AI Engineer/Game Programmer Senior Student of Visayas State University 
 
 
 - 👾 Current Game Development Progrmaming Co-head
